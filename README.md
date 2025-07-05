@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Defne Buse</h1>
-<h3 align="center">A passionate computer science student from Turkey</h3>
+<h3 align="center">A passionate computer engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defnebusecelik&label=Profile%20views&color=0e75b6&style=flat" alt="defnebusecelik" /> </p>
 
